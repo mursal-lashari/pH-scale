@@ -1,0 +1,20 @@
+.one { background-color: #2d84c6; }
+.two { background-color: #2c91ce; }
+.three { background-color: #239dd8; }
+.four { background-color: #3ea7dc; }
+.five { background-color: #56b4e6; }
+.six { background-color: #77c0eb; }
+.seven { background-color: #90c9ed; }
+.eight { background-color: #00b484; }
+.nine { background-color: #f3aecb; }
+.ten { background-color: #f39dbf; }
+.eleven { background-color: #f38cb1; }
+.twelve { background-color: #f279a3; }
+.thirteen { background-color: #f16997; }
+.fourteen { background-color: #f0578a; }
+.fifteen { background-color: #ec3e81; }
+
+* {
+    margin: 0;
+    padding: 0;
+}
